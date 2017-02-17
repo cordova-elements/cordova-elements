@@ -1,0 +1,20 @@
+{
+  "name": "cordova-elements",
+  "homepage": "https://github.com/cordova-elements/cordova-elements",
+  "authors": [
+    "riteshe63 <pradhanritesh6@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "element-collection"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
