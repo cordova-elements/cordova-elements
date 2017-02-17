@@ -16,5 +16,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "cordova-geolocation": "https://github.com/cordova-elements/cordova-geolocation.git#master",
+    "cordova-push-element": "https://github.com/cordova-elements/cordova-push-element.git#master"
+  }
 }
